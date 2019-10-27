@@ -1,0 +1,37 @@
+h1{
+	text-align: center;
+	font-size: 35pt;
+	color: green;
+	margin-bottom: 35px;
+	/*text-decoration: underline; */
+
+}
+
+p{
+	text-align: center;
+	font-size: 12pt;
+	color: #990000;
+	margin-right: 5px;
+	background-color: green;
+	border: 5px solid #990000;
+	margin: 15px;
+	width: 645px;
+	
+}
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #00fdff;
+	
+
+}
+	u{
+		background: #0066A2;
+		color: white;
+		border-color: #0066A2;
+		height: 50px;
+		width: 100px;
+		font: bold 15px arial, sans-serif;
+		text-shadow:none;
+		width: 20em; height: 2em;
+	}

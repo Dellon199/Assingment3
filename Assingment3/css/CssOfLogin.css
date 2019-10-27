@@ -1,0 +1,40 @@
+h1{
+	text-align: corner;
+	font-size: 15pt;
+	color: #990000;
+	margin-bottom: 2px;
+	/*text-decoration: underline; */
+}
+
+p{
+	text-align: center;
+	font-size: 12pt;
+	color: #990000;
+	margin-right: 5px;
+	background-color: #ffffcc;
+	border: 5px solid #990000;
+	margin: 50px;
+	width: 75px;
+	
+}
+body{
+	background-color: lightblue;
+	padding-left:8px;
+	padding-right: 8px;
+	border: 1px solid #990000;
+	}
+	
+u{
+		background: #0066A2;
+		color: white;
+		border-color: #0066A2;
+		height: 50px;
+		width: 100px;
+		font: bold 15px arial, sans-serif;
+		text-shadow:none;
+		width: 20em; height: 2em;
+	}
+	input.search{
+		width: 20em; height: 2em;
+	}
+

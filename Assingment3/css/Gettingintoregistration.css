@@ -1,0 +1,53 @@
+h1{
+	text-align: center;
+	font-size: 35pt;
+	color: darkpurple;
+	margin-bottom: 50px;
+	text-decoration: underline; 
+
+}
+
+p{
+	text-align: center;
+	font-size: 12pt;
+	color: #990000;
+	margin-right: 5px;
+	background-color: green;
+	border: 5px solid #990000;
+	margin: 15px;
+	width: 645px;
+	
+}
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #00fdff;
+	
+
+}
+	.background{
+		position: relative;
+		background: #00fdff url(registerimage.png);
+		height:100vh;
+		background-size: cover;
+		background-position: 0 0;
+		background-repeat: repeat-x;
+		animation: animate 15s linear infinite;
+	}
+	.registerimage{
+		position: absolute;
+		bottom: 10px;
+
+	}
+	@okayframes animate
+	{
+		from{
+			background-position: 0 0;
+			}to{
+				background-position: 100% 0;
+			}
+		}
+	}
+	background.border-image-source: 
+}
+}
